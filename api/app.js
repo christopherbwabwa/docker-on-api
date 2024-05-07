@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         
         {
             "id" : "2",
-            "title" : "Game Review: Pokemon Brillian Diamond" 
+            "title" : "Game Review: Pokemon Brillian Diamond ..." 
         },
         
         {
@@ -26,5 +26,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(4000, () => {
-    console.log('listening for requests on port 4000')
+    console.log('listening for requests on port 4000.........')
 })
