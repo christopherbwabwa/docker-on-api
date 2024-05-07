@@ -1,0 +1,1 @@
+A Docker application containing an api service & a React app.
